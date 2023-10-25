@@ -5,3 +5,7 @@ Edit: these are lines of markdown I'm adding via VS code
 
 This commit history should show deletions and additions.
 
+Hi
+git add README.md
+git commit -m "updated readme"
+git push
